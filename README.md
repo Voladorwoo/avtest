@@ -2,7 +2,10 @@
 
 ##入门Level Fresh: 
 
-  ###零.阶段书单: 《在线视频技术精要》  for: 把零散的音视频知识系统化
+  ###零.阶段书单: 
+    
+    Book1:《在线视频技术精要》  
+    for: 把零散的音视频知识系统化
 
   ###一.最基本的播放器: VideoView (Done)
     
@@ -14,11 +17,13 @@
     
     我的项目:
     
+    for:
+    
     学习自:
       
       Encoder: https://github.com/saki4510t/AudioVideoRecordingSample
       
-      Decoder: 
+      Decoder: https://github.com/sifutang/video  https://mp.weixin.qq.com/s/Zdv27adDOTpucs_12WXU0A
     
   ###三.JNI FFmpeg最基本播放器
   
