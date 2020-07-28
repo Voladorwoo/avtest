@@ -1,7 +1,6 @@
-# avtest
-Android音视频测试开发修炼:
+#Android音视频测试开发修炼:
 
-Level Fresh:
+#Level Fresh:
 
   1.最基本的播放器: VideoView (Done)
   
@@ -12,7 +11,7 @@ Level Fresh:
   4.连麦Agora Base App
   
 
-Level Amateur:
+#Level Amateur:
 
   1.
   
@@ -21,11 +20,11 @@ Level Amateur:
   3.开源项目: 
 
 
-Level Skilled:
+#Level Skilled:
 
 
 
-Level Sharp:
+#Level Sharp:
 
 
 
