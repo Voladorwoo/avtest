@@ -2,6 +2,7 @@
 Android音视频测试开发修炼:
 
 Level Fresh:
+
   1.最基本的播放器: VideoView (Done)
   
   2.MediaCodec 硬解播放器、Android音视频API熟悉
@@ -12,6 +13,7 @@ Level Fresh:
   
 
 Level Amateur:
+
   1.
   
   2.OpenGl&FFmpeg进阶
@@ -22,5 +24,8 @@ Level Amateur:
 Level Skilled:
 
 
+
 Level Sharp:
+
+
 
