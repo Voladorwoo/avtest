@@ -3,8 +3,20 @@
 #Level Fresh:
 
   1.最基本的播放器: VideoView (Done)
+    
+    我的项目:
+    
+    学习自: imooc
   
-  2.MediaCodec 硬解播放器、Android音视频API熟悉
+  2.MediaCodec Android音视频Java API熟悉
+    
+    我的项目:
+    
+    学习自:
+      
+      Encoder: https://github.com/saki4510t/AudioVideoRecordingSample
+      
+      Decoder: 
     
   3.JNI FFmpeg最基本播放器
   
@@ -13,18 +25,24 @@
 
 #Level Amateur:
 
-  1.
+  5.
   
-  2.OpenGl&FFmpeg进阶
+  6.OpenGl
   
-  3.开源项目: 
+  7.3 FFmpeg进阶 + 2进阶: Java API用 FFmpeg实现.
+  
+  8.开源项目: 
 
 
 #Level Skilled:
+  9. FFmpeg 源码阅读
+  
+
 
 
 
 #Level Sharp:
+  10. WebRTC 源码阅读
 
 
 
