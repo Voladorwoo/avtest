@@ -1,16 +1,16 @@
 #Android音视频测试开发修炼:
 
-#Level Fresh: 
+##Level Fresh: 
 
-  0.阶段书单: 《在线视频技术精要》 
+  ###0.阶段书单: 《在线视频技术精要》 
 
-  1.最基本的播放器: VideoView (Done)
+  ###1.最基本的播放器: VideoView (Done)
     
     我的项目:
     
     学习自: imooc
   
-  2.MediaCodec Android音视频Java API熟悉
+  ###2.MediaCodec Android音视频Java API熟悉
     
     我的项目:
     
@@ -20,9 +20,9 @@
       
       Decoder: 
     
-  3.JNI FFmpeg最基本播放器
+  ###3.JNI FFmpeg最基本播放器
   
-  4.连麦Agora Base App
+  ###4.连麦Agora Base App
   
 
 #Level Amateur:
