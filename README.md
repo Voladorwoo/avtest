@@ -8,28 +8,22 @@
     for: 把零散的音视频知识系统化
     
     课程1: 王争 数据结构 设计模式 
-     
     for: Java练习 数据结构复习 设计模式学习
 
 
   #### 1.最基本的播放器: VideoView (Done)
     
     我的项目: MyFirstVideoPlayer
-    
     学习自: imooc
     
 
   
-  #### 2.MediaCodec Android音视频Java API熟悉
+  #### 2.MediaCodec Android音视频
     
     我的项目:
-    
-    for:
-    
+    for: Java音视频 API熟悉
     学习自:
-      
       Encoder: https://github.com/saki4510t/AudioVideoRecordingSample
-      
       Decoder: https://github.com/sifutang/video  https://mp.weixin.qq.com/s/Zdv27adDOTpucs_12WXU0A
     
   #### 3.JNI FFmpeg最基本播放器
