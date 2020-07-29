@@ -1,8 +1,8 @@
-#我的Android音视频测试开发修炼:
+# 我的Android音视频测试开发修炼:
 
-##入门Level Fresh: 
+## 入门Level Fresh: 
 
-  ###零.阶段书单: 
+  ### I.阶段书单: 
     
     Book1:《在线视频技术精要》  
     for: 把零散的音视频知识系统化
@@ -12,7 +12,7 @@
     for: Java练习 数据结构复习 设计模式学习
 
 
-  ###一.最基本的播放器: VideoView (Done)
+  ### 一.最基本的播放器: VideoView (Done)
     
     我的项目: MyFirstVideoPlayer
     
@@ -20,7 +20,7 @@
     
 
   
-  ###二.MediaCodec Android音视频Java API熟悉
+  ### 二.MediaCodec Android音视频Java API熟悉
     
     我的项目:
     
@@ -32,13 +32,13 @@
       
       Decoder: https://github.com/sifutang/video  https://mp.weixin.qq.com/s/Zdv27adDOTpucs_12WXU0A
     
-  ###三.JNI FFmpeg最基本播放器
+  ### 三.JNI FFmpeg最基本播放器
   
-  ###四.连麦Agora Base App
+  ### 四.连麦Agora Base App
   
 
-##业余Level Amateur:
-  ###零.阶段书单: 
+## 业余Level Amateur:
+  ### II.阶段书单: 
     
     课程1: 重构C++
     
