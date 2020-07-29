@@ -6,12 +6,19 @@
     
     Book1:《在线视频技术精要》  
     for: 把零散的音视频知识系统化
+    
+    课程1: 王争 数据结构 设计模式 
+     
+    for: Java练习 数据结构复习 设计模式学习
+
 
   ###一.最基本的播放器: VideoView (Done)
     
-    我的项目:
+    我的项目: MyFirstVideoPlayer
     
     学习自: imooc
+    
+
   
   ###二.MediaCodec Android音视频Java API熟悉
     
@@ -32,7 +39,7 @@
 
 ##业余Level Amateur:
 
-  5.
+  5.CTS Multimedia 源码研读,改造
   
   6.OpenGl
   
