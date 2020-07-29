@@ -38,7 +38,11 @@
   
 
 ##业余Level Amateur:
-
+  ###零.阶段书单: 
+    
+    课程1: 重构C++
+    
+    
   5.CTS Multimedia 源码研读,改造
   
   6.OpenGl
