@@ -1,10 +1,10 @@
 # 我的Android音视频测试开发修炼:
 
-## 入门Level Fresh: 
+## Level Fresh: 
 
-  ### I.阶段书单: 
+  ### 本阶段书单: 
     
-    Book1:《在线视频技术精要》  
+    Book1:《在线视频技术精要》 Ongoing
     for: 把零散的音视频知识系统化
     
     课程1: 王争 数据结构 设计模式 
@@ -12,7 +12,7 @@
     for: Java练习 数据结构复习 设计模式学习
 
 
-  ### 一.最基本的播放器: VideoView (Done)
+  ### .最基本的播放器: VideoView (Done)
     
     我的项目: MyFirstVideoPlayer
     
@@ -37,30 +37,29 @@
   ### 四.连麦Agora Base App
   
 
-## 业余Level Amateur:
-  ### II.阶段书单: 
+## Level Amateur:
+  ### 本阶段书单: 
     
     课程1: 重构C++
     
-    
-  5.CTS Multimedia 源码研读,改造
+  ### 5.CTS Multimedia 源码研读,改造
   
-  6.OpenGl
+  ### 6.OpenGl
   
-  7.3 FFmpeg进阶 + 2进阶: Java API用 FFmpeg实现.
+  ### 7. 3 FFmpeg进阶 + 2进阶: Java API用 FFmpeg实现.
   
-  8.开源项目: 
+  ### 8.开源项目: 
 
 
-##熟练Level Skilled:
-  9. FFmpeg 源码阅读
+## Level Skilled:
+  ### 9. FFmpeg 源码阅读
   
 
 
 
 
-##精通Level Sharp:
-  10. WebRTC 源码阅读
+## Level Sharp:
+  ### 10. WebRTC 源码阅读
 
 
 
